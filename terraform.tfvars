@@ -1,4 +1,4 @@
-access_key_var = ""
-secret_key_var = ""
+access_key_var = "" # AWS access credential
+secret_key_var = "" # AWS access credential
 
-ENV = "production"
+ENV = "production" # production | dev 
